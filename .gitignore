@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# run outputs: these contain your asset text and persona answers
+personas.json
+results*.jsonl
+tally*.md
+dims.json
+*.local.*
